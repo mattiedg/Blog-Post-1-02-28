@@ -1,32 +1,3 @@
-## Blog Post Title From First Header
-
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+## Blog Post 02.28.2022
+For myself the main reason why I got into data science is that I felt many of the principles of data science were present in the other activities that I was already involved in. While I was still in my previous job in finance I worked constantly with an Excel API known as Bloomberg Query Language. This language was based off of Python and was used to pull financial data from the Bloomberg Terminal as well as directly from data suppliers such as financial exchanges. As well I became accustomed to aggregating, sorting, and performing statistical analysis on the data we were working with. After some time of assisting clients in the use of this language it became clear that they were using this so that they would be able to pull the data into python to be able to pull more complex and sophisticated transformations on it there. 
+	After being exposed to the surface level of the capability of Python and other coding languages I knew that I would like to be able to delve deeper. After some discussing with friends who either worked as data scientists, worked alongside them, or had just studied computer science in college I learned more about the vast use and application for coding and the data science field. I am thrilled to have the opportunity to learn more about learning coding languages and being able to implement them towards solving complex data problems. As well I quite like that within this role there is still a large amount of collaboration both with colleagues at your business but also with clients and customers. 
